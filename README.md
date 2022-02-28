@@ -26,6 +26,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Basic Banking System | A Web Application used to transfer money between multiple users. A dummy user can also be created. ( https://github.com/sadaan72/basic-banking-system ) | 
 | Music in JavaScript | Developed this Music Instrument in Web Development training (https://github.com/sadaan72/Music-in-JavaScript) |
 | Dice Game in JavaScript | Developed this game in Web Development training (https://github.com/sadaan72/Dice-Game-in-JavaScript) |
+| Netflix Clone| (https://github.com/AnsariSadaan/Netflix_project_v1) |
 | Python and Machine Learning Bootcamp | Developed this project during the 7 Days Bootcamp, conducted by SHAPEAI (https://github.com/sadaan72/ShapeAI_Python_Machine_Learning) |
 
 <hr>
